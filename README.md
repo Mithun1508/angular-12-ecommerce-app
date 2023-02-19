@@ -1,3 +1,4 @@
 # angular-12-ecommerce-app
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ionic-5-angular-12-ecommerce-app-2czxyh)
+
+![Screenshot 2023-02-19 153727](https://user-images.githubusercontent.com/93249038/219941663-df373a6b-6b09-43c3-ae66-46fa84e02158.png)
