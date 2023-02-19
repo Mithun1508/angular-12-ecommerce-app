@@ -15,3 +15,11 @@
 6. My Orders Page.
 
 ![Screenshot 2023-02-19 153727](https://user-images.githubusercontent.com/93249038/219941663-df373a6b-6b09-43c3-ae66-46fa84e02158.png)
+
+
+![Preview](/preview.gif)
+
+![App UI](/ep1.png)
+![App UI](/ep2.png)
+![App UI](/ep3.png)
+![App UI](/ep4.png)
